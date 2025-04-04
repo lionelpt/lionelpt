@@ -3,36 +3,57 @@
 > i write my code like i write my poetry:  
 > listening to silence and naming what moves beneath.
 
-self-taught, self-shaped, system-bound and story-driven.  
-currently completing a professional course in **Network & Systems Management**, and preparing to enter university in **Data Science & AI**.  
-linux is my sanctuary, python is my brush, and curiosity is my only constant.
+---
+
+## who i am
+
+a self-taught, self-shaped developer whose journey is as much about art as it is about code.  
+currently, i'm immersed in a **Network & Systems Management** course and gearing up for a future in **Data Science & AI**.  
+linux is my sanctuary, and python is the instrument with which i paint my ideas.
 
 ---
 
-### 🌟 featured projects
+## featured projects
 
-- 🔹 [**macrodata-refinement-sim**](https://github.com/lionelpt/macrodata-refinement-sim)  
-  *a surreal workflow inspired by the series severance – where data meets memory.*
+- **[macrodata-refinement-sim](https://github.com/lionelpt/macrodata-refinement-sim)**  
+  *exploring surreal workflows where data and memory entwine.*
 
-- 🔹 [**lionux-vision**](https://github.com/lionelpt/lionux-vision)  
-  *notes and sketches for a future OS blending soul, simplicity and sovereignty.*
+- **[lionux-vision](https://github.com/lionelpt/lionux-vision)**  
+  *a vision for an os that harmonises simplicity, privacy, and soul.*
 
-- 🔹 [**nfs-samba-labs**](https://github.com/lionelpt/nfs-samba-labs)  
-  *a series of practical exercises configuring nfs and samba shares on debian servers.*
+- **[nfs-samba-labs](https://github.com/lionelpt/nfs-samba-labs)**  
+  *practical labs configuring nfs and samba on debian servers.*
 
 ---
 
-### 🧰 tools & territories  
+## what i work with
+
 `python` • `bash` • `c++` • `virtualbox` • `dhcp` • `dns` • `linux` • `windows server`
 
 ---
 
-### 🌱 next quests  
-- dive deeper into object-oriented programming  
-- build my portfolio with soul  
-- transform resilience into digital architecture  
+## my next quests
+
+- delve further into object-oriented programming  
+- craft a portfolio that resonates with authenticity  
+- channel resilience into innovative digital solutions
 
 ---
 
+## a thought to ponder
+
 > “in each commit, a decision.  
-> in each line, a breath.”  
+> in each line, a breath.”
+
+---
+
+## let’s connect
+
+feel free to explore my repos, follow my journey, or reach out via [email](mailto:teuemail@example.com).
+
+---
+
+## 📈 my github stats
+
+![lionelpt's GitHub stats](https://github-readme-stats.vercel.app/api?username=lionelpt&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lionelpt&layout=compact&theme=radical)
