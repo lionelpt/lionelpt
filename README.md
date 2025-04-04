@@ -1,4 +1,4 @@
-# 👋🏽 hello, i'm lionel
+# 👋🏽 I'm Lionel
 
 > i write my code like i write my poetry:  
 > listening to silence and naming what moves beneath.
