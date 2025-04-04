@@ -15,14 +15,14 @@ linux is my sanctuary, and python is the instrument with which i paint my ideas.
 
 ## featured projects
 
-- **[macrodata-refinement-sim](https://github.com/lionelpt/macrodata-refinement-sim)**  
+- **[macrodata-refinement-lumon](https://github.com/Lumon-Industries/Macrodata-Refinement)**  
   *exploring surreal workflows where data and memory entwine.*
 
 - **[lionux-vision](https://github.com/lionelpt/lionux-vision)**  
   *a vision for an os that harmonises simplicity, privacy, and soul.*
 
-- **[nfs-samba-labs](https://github.com/lionelpt/nfs-samba-labs)**  
-  *practical labs configuring nfs and samba on debian servers.*
+-  [**zero-to-hero**](https://github.com/lionelpt/zero-to-hero)  
+  *my technical odyssey: from fundamentals to fluency — a roadmap in code and courage.*
 
 ---
 
@@ -49,7 +49,7 @@ linux is my sanctuary, and python is the instrument with which i paint my ideas.
 
 ## let’s connect
 
-feel free to explore my repos, follow my journey, or reach out via [email](mailto:teuemail@example.com).
+feel free to explore my repos, follow my journey, or reach out via [email](mailto:lionel.pt@email.com).
 
 ---
 
