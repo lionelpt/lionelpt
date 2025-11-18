@@ -18,7 +18,7 @@ linux is my sanctuary, and python is the instrument with which i paint my ideas.
 - **[macrodata-refinement-lumon](https://github.com/Lumon-Industries/Macrodata-Refinement)**  
   *exploring surreal workflows where data and memory entwine.*
 
-- **[lionux-vision](https://github.com/lionelpt/lionux-vision)**  
+- **[lionux-vision] — work in progress
   *a vision for an os that harmonises simplicity, privacy, and soul.*
 
 -  [**zero-to-hero**](https://github.com/lionelpt/zero2hero)  
@@ -28,7 +28,7 @@ linux is my sanctuary, and python is the instrument with which i paint my ideas.
 
 ## what i work with
 
-`python` • `bash` • `c++` • `virtualbox` • `dhcp` • `dns` • `linux` • `windows server`
+`python` • `bash` • `C & C++` • `linux` • `windows server`
 
 ---
 
