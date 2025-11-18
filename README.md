@@ -21,7 +21,7 @@ linux is my sanctuary, and python is the instrument with which i paint my ideas.
 - **[lionux-vision](https://github.com/lionelpt/lionux-vision)**  
   *a vision for an os that harmonises simplicity, privacy, and soul.*
 
--  [**zero-to-hero**]([https://github.com/lionelpt/zero-to-hero](https://github.com/lionelpt/zero2hero))  
+-  [**zero-to-hero**](https://github.com/lionelpt/zero2hero)  
   *my technical odyssey: from fundamentals to fluency — a roadmap in code and courage.*
 
 ---
