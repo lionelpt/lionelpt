@@ -50,12 +50,3 @@ Linux | Python
 ## let’s connect
 
 feel free to explore my repos, follow my journey, or reach out via [email](mailto:lionel.pt@email.com).
-
----
-
-## 📈 my github stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lionelpt&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionelpt&layout=compact&theme=radical" />
-</p>
