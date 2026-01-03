@@ -7,9 +7,9 @@
 
 ## who i am
 
-a self-taught, self-shaped developer whose journey is as much about art as it is about code.  
-currently, i'm immersed in a **Network & Systems Management** course and gearing up for a future in **Data Science & AI**.  
-linux is my sanctuary, and python is the instrument with which i paint my ideas.
+Self-taught, systems-oriented developer.
+Network & Systems Management → Data Science & AI.
+Linux | Python
 
 ---
 
