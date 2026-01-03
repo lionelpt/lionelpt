@@ -55,6 +55,7 @@ feel free to explore my repos, follow my journey, or reach out via [email](mailt
 
 ## 📈 my github stats
 
-![lionelpt's GitHub stats](https://github-readme-stats.vercel.app/api?username=lionelpt&show_icons=true&theme=radical&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lionelpt&layout=compact&theme=radical&cache_seconds=86400)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lionelpt&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionelpt&layout=compact&theme=radical" />
+</p>
