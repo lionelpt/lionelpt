@@ -1,16 +1,5 @@
 # 👋🏽 I'm Lionel Português
 
-> i write my code like i write my poetry:  
-> listening to silence and naming what moves beneath.
-
----
-
-## who i am
-
-Self-taught, systems-oriented developer.
-Network & Systems Management → Data Science & AI.
-Linux | Python
-
 ---
 
 ## featured projects
@@ -26,24 +15,11 @@ Linux | Python
 
 ---
 
-## what i work with
+## direction
 
-`python` • `bash` • `C & C++` • `linux` • `windows server`
-
----
-
-## my next quests
-
-- delve further into object-oriented programming  
-- craft a portfolio that resonates with authenticity  
-- channel resilience into innovative digital solutions
-
----
-
-## a thought to ponder
-
-> “in each commit, a decision.  
-> in each line, a breath.”
+- object-oriented systems  
+- data → decision frameworks  
+- human-centered software  
 
 ---
 
