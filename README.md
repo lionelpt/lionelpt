@@ -1,4 +1,4 @@
-# 👋🏽 I'm Lionel
+# 👋🏽 I'm Lionel Português
 
 > i write my code like i write my poetry:  
 > listening to silence and naming what moves beneath.
@@ -44,6 +44,17 @@ Linux | Python
 
 > “in each commit, a decision.  
 > in each line, a breath.”
+
+---
+
+## 📊 github stats
+
+![Lionel's GitHub stats](https://github-readme-stats.vercel.app/api?username=lionelpt&show_icons=true&theme=radical)
+
+---
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
