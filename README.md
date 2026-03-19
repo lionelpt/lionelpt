@@ -1,4 +1,4 @@
-# 👋🏽 I'm Lionel Português
+# Lionel Português
 
 ---
 
