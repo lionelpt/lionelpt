@@ -1,9 +1,4 @@
-Here’s a streamlined and more technical reimagining of your README.md. This version clarifies content, emphasizes your skills and project focus, and structures information for technical audiences:
-
-````markdown name=README.md
 # Lionel Português
-
----
 
 ### 🚀 About
 
@@ -49,15 +44,3 @@ Software engineer passionate about object-oriented architectures, data-to-decisi
 
 - Email: [lionel.pt@email.com](mailto:lionel.pt@email.com)
 - Explore my repos or connect to collaborate on technical and open-source projects.
-
-````![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## let’s connect
-
-feel free to explore my repos, follow my journey, or reach out via [email](mailto:lionel.pt@email.com).
