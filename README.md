@@ -8,6 +8,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+!icons/azure/azure-original.svg
+
 ### 🚀 About
 
 Software engineer passionate about object-oriented architectures, data-to-decision frameworks, and building human-centered tools.
