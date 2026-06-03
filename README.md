@@ -1,7 +1,6 @@
 # Lionel Português
 
 ![Azure](https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg?short_path=6c0d5a7)
-![C#](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg)
 
 ### 🚀 About
 
